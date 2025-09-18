@@ -1,3 +1,3 @@
-﻿  ExGPTp1.cpp
-D:\DOCUMENTOS ------\Enti\2o\lodeltiocabreao\Software\Estudioenfadao\ExGPTp1.cpp(48,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+﻿  Archivos.cpp
+D:\DOCUMENTOS ------\Enti\2o\lodeltiocabreao\Software\Estudioenfadao\Archivos.cpp(45,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
   Estudioenfadao.vcxproj -> D:\DOCUMENTOS ------\Enti\2o\lodeltiocabreao\Software\Estudioenfadao\x64\Debug\Estudioenfadao.exe
