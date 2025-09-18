@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\OscarDuqueGranero\\Documents\\software\\xml\\",
+  "WorkspaceRootPath": "C:\\Users\\OscarDuqueGranero\\Documents\\software\\Software\\xml\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0707975B-33B0-470A-85AF-80CE39FCF8C9}|xml.vcxproj|C:\\Users\\OscarDuqueGranero\\Documents\\software\\xml\\xmltry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0707975B-33B0-470A-85AF-80CE39FCF8C9}|xml.vcxproj|C:\\Users\\OscarDuqueGranero\\Documents\\software\\Software\\xml\\xmltry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0707975B-33B0-470A-85AF-80CE39FCF8C9}|xml.vcxproj|solutionrelative:xmltry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "xmltry.cpp",
-              "DocumentMoniker": "C:\\Users\\OscarDuqueGranero\\Documents\\software\\xml\\xmltry.cpp",
+              "DocumentMoniker": "C:\\Users\\OscarDuqueGranero\\Documents\\software\\Software\\xml\\xmltry.cpp",
               "RelativeDocumentMoniker": "xmltry.cpp",
-              "ToolTip": "C:\\Users\\OscarDuqueGranero\\Documents\\software\\xml\\xmltry.cpp*",
-              "RelativeToolTip": "xmltry.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\OscarDuqueGranero\\Documents\\software\\Software\\xml\\xmltry.cpp",
+              "RelativeToolTip": "xmltry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-18T13:57:21.066Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
